@@ -1,0 +1,8 @@
+pandas
+sublist3r
+networkx
+matplotlib
+seaborn
+httpx
+scapy
+tldextract

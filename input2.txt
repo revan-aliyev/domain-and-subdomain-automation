@@ -1,0 +1,4 @@
+admin,test,dev,www,ftp,api,shop,test
+onedrive.com
+microsoft.com
+google.com
